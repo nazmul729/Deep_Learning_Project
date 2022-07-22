@@ -13,11 +13,16 @@ The Dataset is collected from [Time Series Data Library (TSDL)](https://www.kagg
 
 ## Models we Tested
 
+![LSTM](https://github.com/nazmul729/Deep_Learning_Project/blob/main/LSTM.png)
 
+![GRU](https://github.com/nazmul729/Deep_Learning_Project/blob/main/GRU.png)
 
 ## Empirical Evaluation
 
 
+![LSTM_Prediction](https://github.com/nazmul729/Deep_Learning_Project/blob/main/LSTM_Prediction.png)
+
+![GRU_Prediction](https://github.com/nazmul729/Deep_Learning_Project/blob/main/GRU_Prediction.png)
 
 ## Credits
 
