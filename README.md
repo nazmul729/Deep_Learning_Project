@@ -6,3 +6,10 @@ industrial productions. However, this work is restricted for Sales of Shampoo pr
 (There have just a single value i.e., the amount of sales of Shampoo per month). I used 2 most important Recurrent Neural Networks named LSTM and GRU for 
 time series data, and finally made comparison between them. Here, sales amount prediction has been done for next 5 months. By comparing the results of the prediction 
 figures and mean squared errors, it is concluded that GRU architecture performs better than LSTM one.
+
+
+
+## Credits
+
+Special thanks to Professor [Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
+Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
