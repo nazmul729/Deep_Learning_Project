@@ -13,14 +13,21 @@ The Dataset is collected from [Time Series Data Library (TSDL)](https://www.kagg
 
 ## Models we Tested
 
-![LSTM](https://github.com/nazmul729/Deep_Learning_Project/blob/main/LSTM.png)
+### LSTM network architecture
 
-![GRU](https://github.com/nazmul729/Deep_Learning_Project/blob/main/GRU.png)
+![LSTM network architecture](https://github.com/nazmul729/Deep_Learning_Project/blob/main/LSTM.png)
+
+### GRU network architecture
+
+![GRU network architecture](https://github.com/nazmul729/Deep_Learning_Project/blob/main/GRU.png)
 
 ## Empirical Evaluation
 
+### Prediction using LSTM network
 
 ![LSTM_Prediction](https://github.com/nazmul729/Deep_Learning_Project/blob/main/LSTM_Prediction.png)
+
+### Prediction using GRU network
 
 ![GRU_Prediction](https://github.com/nazmul729/Deep_Learning_Project/blob/main/GRU_Prediction.png)
 
