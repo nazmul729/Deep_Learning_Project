@@ -7,9 +7,13 @@ industrial productions. However, this work is restricted for Sales of Shampoo pr
 time series data, and finally made comparison between them. Here, sales amount prediction has been done for next 5 months. By comparing the results of the prediction 
 figures and mean squared errors, it is concluded that GRU architecture performs better than LSTM one.
 
+##	Dataset and Data Preprocessing
+
+The Dataset is collected from [Time Series Data Library (TSDL)](https://www.kaggle.com/datasets/dougcresswell/shampoo-sales-2001-2003). Time series datasets are most popular in recent years. The Sales of shampoo over a three years period is one of them. It is last updated 1 Feb 2014. The data in that dataset is collected for 3 years i.e., 36 months sales information. The time range in this time series data is per month. So the dataset has 36 samples and only 2 features- date and amount. The date feature is for time series data. Among the samples 31 data samples are used for training and the rest 5 are used to find the prediction performance. 
+
 
 
 ## Credits
 
-Special thanks to Professor [Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
-Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
+- Special thanks to Professor [Dr Anthony S. Maida](https://people.cmix.louisiana.edu/maida/)
+- Implemented this project using Python frameworks: Numpy, Pandas, Scikit-learn.
